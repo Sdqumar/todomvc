@@ -1,4 +1,4 @@
-# todomvc
+# Cypress todomvc
 
 # Installation
 
